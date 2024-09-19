@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FC6E07E4-45D9-47E3-9103-8BAF3F46C4FF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "186814A7-31EE-4662-A069-7460C9539A52"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/CommonViews/AvatarView/ChatChannelAvatarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "loadMergedAvatars(channel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17C17A3E-139D-49E7-AD42-A8BA5B86419C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/CommonViews/AvatarView/ChatChannelAvatarView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "loadMergedAvatars(channel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17C17A3E-139D-49E7-AD42-A8BA5B86419C - f222f0860020b550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StreamChatUI.ChatChannelAvatarView.loadMergedAvatars(channel: StreamChat.ChatChannel) -&gt; ()"
+                  moduleName = "SacrenaChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/CommonViews/AvatarView/ChatChannelAvatarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "1204">
+               </Location>
+               <Location
+                  uuid = "17C17A3E-139D-49E7-AD42-A8BA5B86419C - 581735903dc868ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;__C.UIImage&gt;, StreamChat.ChannelId) -&gt; () in StreamChatUI.ChatChannelAvatarView.loadMergedAvatars(channel: StreamChat.ChatChannel) -&gt; ()"
+                  moduleName = "SacrenaChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/CommonViews/AvatarView/ChatChannelAvatarView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "282">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24C3B367-AFAE-4A82-9002-930623706BE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/ChatMessageList/ChatMessage/ChatMessageContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1091"
+            endingLineNumber = "1091"
+            landmarkName = "roundedCorners"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AFD859B-5543-4C46-80EC-1C3B2E2821FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SacrenaChat/Custom/CustomChatMessageContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "layout(options:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9AFD859B-5543-4C46-80EC-1C3B2E2821FB - 4845999a473eabcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SacrenaChat.CustomChatMessageContentView.layout(options: Swift.Set&lt;StreamChatUI.ChatMessageLayoutOption&gt;) -&gt; ()"
+                  moduleName = "SacrenaChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My_Works/iPhone_Projects/GIT_PROJECTS/SacrenaChat/SacrenaChat/Custom/CustomChatMessageContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "9AFD859B-5543-4C46-80EC-1C3B2E2821FB - 4845999a473eabcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SacrenaChat.CustomChatMessageContentView.layout(options: Swift.Set&lt;StreamChatUI.ChatMessageLayoutOption&gt;) -&gt; ()"
+                  moduleName = "SacrenaChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/janarthananmirunalini/My_Works/iPhone_Projects/GIT_PROJECTS/SacrenaChat/SacrenaChat/Custom/CustomChatMessageContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "89">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "834D063B-629F-4C8B-84FA-DD3B6E258DAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/ChatMessageList/ChatMessage/ChatMessageContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "309"
+            endingLineNumber = "309"
+            landmarkName = "layout(options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "520667F0-C579-49D1-BF36-91ABD4358C25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SacrenaChat/Custom/CustomChatMessageContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "layout(options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61C4AA29-67F7-4B99-8842-141925834238"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/ChatMessageList/Attachments/Gallery/GalleryAttachmentViewInjector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "contentViewDidLayout(options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11833FD0-369F-4530-9367-1750EB2825A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/ChatMessageList/Attachments/Gallery/GalleryAttachmentViewInjector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "contentViewDidLayout(options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33647B6F-B8F3-402F-91A4-57BAE1CE7A78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/StreamNuke/Core/ImageProcessing.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "567"
+            endingLineNumber = "567"
+            landmarkName = "byAddingRoundedCorners(radius:border:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A29A8F4-8A5D-4033-AEA3-3D4855E93364"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/StreamNuke/Core/ImageProcessing.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "process(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEA85A1F-776A-4821-9DDF-B9D689F8D026"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/StreamNuke/Core/ImageProcessing.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "init(radius:unit:border:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A72D5AE0-E4EE-4DA1-A180-6D6C2BABC939"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/StreamNuke/Core/ImageProcessing.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "536"
+            endingLineNumber = "536"
+            landmarkName = "byDrawingInCircle(border:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12E23197-E5BE-454A-88A4-49199F76F0D7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/ChatMessageList/Attachments/Gallery/GalleryAttachmentViewInjector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "contentViewDidLayout(options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CF41CBD-8F3E-41CA-980B-ACCF668AE523"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/ChatMessageList/Attachments/Giphy/ChatMessageInteractiveAttachmentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "setUpAppearance()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88082BF1-6680-4091-B58B-5EDEDAB7F640"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SacrenaChat/Custom/CustomComposerVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "showAttachmentsPicker(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D04A6E5A-192F-4E61-95D0-70AC45B8FD57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/SacrenaChat-bangeihxbacbwzfgcsvxefmmjrxv/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/Composer/ComposerVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "417"
+            endingLineNumber = "417"
+            landmarkName = "cameraVC"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
